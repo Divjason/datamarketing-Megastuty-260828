@@ -1,0 +1,255 @@
+[
+    {
+        "book_title": "박곰희 연금 부자 수업",
+        "author": "박곰희저",
+        "publisher": "인플루엔셜",
+        "publish_date": "2025년 06월",
+        "book_price": 18900,
+        "sale_rate": 10,
+        "sale_num": 462087,
+        "customer_review_count": 539,
+        "review_type": {
+            "paper_review": 234,
+            "ebook_review": 14,
+            "paper_one_line_review": 267,
+            "ebook_one_line_review": 24
+        },
+        "rating": 9.7,
+        "img_url": "https://image.yes24.com/goods/148032819/L",
+        "hash_tag": [
+            "연금투자",
+            "은퇴준비",
+            "경제적자유",
+            "똑똑하게투자하기",
+            "노후대비"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/148032819"
+    },
+    {
+        "book_title": "ETF 투자의 모든 것",
+        "author": "문일호저",
+        "publisher": "매일경제신문사",
+        "publish_date": "2025년 08월",
+        "book_price": 18900,
+        "sale_rate": 10,
+        "sale_num": 144660,
+        "customer_review_count": 143,
+        "review_type": {
+            "paper_review": 71,
+            "ebook_review": 0,
+            "paper_one_line_review": 72,
+            "ebook_one_line_review": 0
+        },
+        "rating": 9.4,
+        "img_url": "https://image.yes24.com/goods/150166715/L",
+        "hash_tag": [
+            "마르지않는현금흐름",
+            "투자전략",
+            "ETF투자",
+            "주식투자입문",
+            "주식매매법"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/150166715"
+    },
+    {
+        "book_title": "돈의 속성 400쇄 리커버",
+        "author": "김승호저",
+        "publisher": "스노우폭스북스",
+        "publish_date": "2020년 06월",
+        "book_price": 16020,
+        "sale_rate": 10,
+        "sale_num": 126366,
+        "customer_review_count": 1894,
+        "review_type": {
+            "paper_review": 535,
+            "ebook_review": 53,
+            "paper_one_line_review": 1069,
+            "ebook_one_line_review": 237
+        },
+        "rating": 9.5,
+        "img_url": "https://image.yes24.com/goods/90428162/L",
+        "hash_tag": [
+            "돈관리의모든것",
+            "주식투자입문",
+            "주식초보",
+            "다시보는2020",
+            "올해의책"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/90428162"
+    },
+    {
+        "book_title": "돈, 뜨겁게 사랑하고 차갑게 다루어라",
+        "author": "앙드레 코스톨라니저/한윤진역",
+        "publisher": "미래의창",
+        "publish_date": "2023년 09월",
+        "book_price": 13500,
+        "sale_rate": 10,
+        "sale_num": 109755,
+        "customer_review_count": 146,
+        "review_type": {
+            "paper_review": 57,
+            "ebook_review": 10,
+            "paper_one_line_review": 55,
+            "ebook_one_line_review": 24
+        },
+        "rating": 9.4,
+        "img_url": "https://image.yes24.com/goods/122532297/L",
+        "hash_tag": [
+            "가치투자"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/122532297"
+    },
+    {
+        "book_title": "듀얼 브레인",
+        "author": "이선 몰릭저/신동숙역",
+        "publisher": "상상스퀘어",
+        "publish_date": "2025년 03월",
+        "book_price": 18900,
+        "sale_rate": 10,
+        "sale_num": 99828,
+        "customer_review_count": 236,
+        "review_type": {
+            "paper_review": 90,
+            "ebook_review": 11,
+            "paper_one_line_review": 110,
+            "ebook_one_line_review": 25
+        },
+        "rating": 8.7,
+        "img_url": "https://image.yes24.com/goods/142876017/L",
+        "hash_tag": [
+            "2025_휴넷CEO_추천도서",
+            "2025_SERICEO_휴가철추천도서",
+            "미래의일자리",
+            "미래를그리다",
+            "미래전략"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/142876017"
+    },
+    {
+        "book_title": "불변의 법칙",
+        "author": "모건 하우절저/이수경역",
+        "publisher": "서삼독",
+        "publish_date": "2024년 02월",
+        "book_price": 22500,
+        "sale_rate": 10,
+        "sale_num": 95901,
+        "customer_review_count": 792,
+        "review_type": {
+            "paper_review": 260,
+            "ebook_review": 22,
+            "paper_one_line_review": 435,
+            "ebook_one_line_review": 75
+        },
+        "rating": 9.5,
+        "img_url": "https://image.yes24.com/goods/124999476/L",
+        "hash_tag": [
+            "2026_리딩런_마라톤코스추천",
+            "올해의책",
+            "부자되는법",
+            "부자만들기",
+            "돈좀벌어보자"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/124999476"
+    },
+    {
+        "book_title": "왜 일하는가",
+        "author": "이나모리 가즈오저/김윤경역",
+        "publisher": "다산북스",
+        "publish_date": "2021년 04월",
+        "book_price": 16200,
+        "sale_rate": 10,
+        "sale_num": 89598,
+        "customer_review_count": 329,
+        "review_type": {
+            "paper_review": 127,
+            "ebook_review": 7,
+            "paper_one_line_review": 118,
+            "ebook_one_line_review": 77
+        },
+        "rating": 8.7,
+        "img_url": "https://image.yes24.com/goods/99184511/L",
+        "hash_tag": [
+            "왜일하는가",
+            "사회초년생",
+            "신입사원",
+            "직장인공감",
+            "성공과성장"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/99184511"
+    },
+    {
+        "book_title": "생각에 관한 생각",
+        "author": "대니얼 카너먼저/이창신역",
+        "publisher": "김영사",
+        "publish_date": "2018년 03월",
+        "book_price": 26820,
+        "sale_rate": 10,
+        "sale_num": 87660,
+        "customer_review_count": 410,
+        "review_type": {
+            "paper_review": 112,
+            "ebook_review": 15,
+            "paper_one_line_review": 252,
+            "ebook_one_line_review": 31
+        },
+        "rating": 9.3,
+        "img_url": "https://image.yes24.com/goods/59580017/L",
+        "hash_tag": [
+            "월간개발자_추천도서",
+            "2021우량투자서35선",
+            "책읽아웃",
+            "잠시쉼표",
+            "인간심리"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/59580017"
+    },
+    {
+        "book_title": "자본주의",
+        "author": "EBS 〈자본주의〉제작팀,정지은,고희정저/EBS MEDIA기획",
+        "publisher": "가나출판사",
+        "publish_date": "2013년 09월",
+        "book_price": 19800,
+        "sale_rate": 10,
+        "sale_num": 84210,
+        "customer_review_count": 1050,
+        "review_type": {
+            "paper_review": 265,
+            "ebook_review": 42,
+            "paper_one_line_review": 398,
+            "ebook_one_line_review": 345
+        },
+        "rating": 9.5,
+        "img_url": "https://image.yes24.com/goods/11081680/L",
+        "hash_tag": [
+            "크레마클럽에있어요",
+            "북클러버의선택",
+            "금융문맹탈출"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/11081680"
+    },
+    {
+        "book_title": "달러 자산 1억으로 평생 월급 완성하라 (2026 투자 전략 특별판)",
+        "author": "채부심(채상욱)저",
+        "publisher": "몽스북 ",
+        "publish_date": "2025년 08월",
+        "book_price": 18900,
+        "sale_rate": 10,
+        "sale_num": 83958,
+        "customer_review_count": 94,
+        "review_type": {
+            "paper_review": 43,
+            "ebook_review": 0,
+            "paper_one_line_review": 45,
+            "ebook_one_line_review": 6
+        },
+        "rating": 9.1,
+        "img_url": "https://image.yes24.com/goods/151041569/L",
+        "hash_tag": [
+            "크레마클럽에있어요",
+            "마르지않는현금흐름",
+            "월급재테크",
+            "월급으로시작하는"
+        ],
+        "product_detail_url": "https://www.yes24.com/product/goods/151041569"
+    }
+]
