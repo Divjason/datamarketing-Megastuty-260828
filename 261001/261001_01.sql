@@ -17,8 +17,14 @@ USE wconcept_db_261001;
 SHOW TABLES;
 
 DESC products;
+DESC brands;
+DESC reviews;
 
 SELECT * FROM products;
+
+SELECT * FROM products
+WHERE product_id = "300964307";
+
 SELECT * FROM brands;
 SELECT * FROM crawl_runs;
 SELECT * FROM blog_posts;
@@ -26,3 +32,7 @@ SELECT * FROM product_snapshots;
 SELECT * FROM reviews;
 SELECT * FROM review_evaluations;
 SELECT * FROM review_images;
+
+USE wconcept_db_260927_01;
+
+SHOW TABLES;
