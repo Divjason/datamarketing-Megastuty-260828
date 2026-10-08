@@ -125,6 +125,12 @@ FROM rental
 WHERE rental_date >= "2006-01-01";
 
 SELECT
+	rental_date,
+    DATE_ADD(rental_date, INTERVAL 5 DAY) return_day
+FROM rental
+WHERE rental_date >= return_day;
+
+SELECT
 	rental_date
 FROM rental
 WHERE YEAR(rental_date) >= "2006";
