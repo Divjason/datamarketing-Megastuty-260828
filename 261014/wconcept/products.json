@@ -1,0 +1,1464 @@
+[
+  {
+    "item_type": "product",
+    "rank": 1,
+    "product_id": "309050097",
+    "brand_id": 114795,
+    "brand_name_kr": "수아레 우먼",
+    "brand_name_en": "SUARE WOMEN",
+    "product_name": "(우먼)파인 캐시미어 100 홀가먼트 브이넥 니트 - 7 COLOR",
+    "category_1": "의류",
+    "category_2": "니트",
+    "category_3": "캐시미어",
+    "customer_price": 150000,
+    "sale_price": 119900.0,
+    "final_price": 91124,
+    "discount_rate": 39,
+    "review_count": 79,
+    "review_score": 4.9494,
+    "heart_count": 5588,
+    "product_url": "https://m.wconcept.co.kr/Product/309050097",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/97/309050097_EK91523.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 2,
+    "product_id": "308926911",
+    "brand_id": 118298,
+    "brand_name_kr": "보니스팍스",
+    "brand_name_en": "Bonispax",
+    "product_name": "라운드 슬림핏 니트 A라인 스커트 셋업 (XO4OW009L0)",
+    "category_1": "의류",
+    "category_2": "원피스",
+    "category_3": "셋업",
+    "customer_price": 99000,
+    "sale_price": 57000.0,
+    "final_price": 39900,
+    "discount_rate": 59,
+    "review_count": 7,
+    "review_score": 4.7143,
+    "heart_count": 2301,
+    "product_url": "https://m.wconcept.co.kr/Product/308926911",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/11/308926911_GM79349.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 3,
+    "product_id": "308920544",
+    "brand_id": 114795,
+    "brand_name_kr": "수아레 우먼",
+    "brand_name_en": "SUARE WOMEN",
+    "product_name": "[컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR",
+    "category_1": "의류",
+    "category_2": "아우터",
+    "category_3": "패딩",
+    "customer_price": 165000,
+    "sale_price": 109900.0,
+    "final_price": 81766,
+    "discount_rate": 50,
+    "review_count": 205,
+    "review_score": 4.9415,
+    "heart_count": 789,
+    "product_url": "https://m.wconcept.co.kr/Product/308920544",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/44/308920544_GG96758.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 4,
+    "product_id": "307187926",
+    "brand_id": 115240,
+    "brand_name_kr": "어스",
+    "brand_name_en": "USS",
+    "product_name": "[16차 리오더][기장선택가능] US105 레귤러 플레어진 (블랙)",
+    "category_1": "의류",
+    "category_2": "데님",
+    "category_3": "부츠컷진",
+    "customer_price": 118000,
+    "sale_price": 73000.0,
+    "final_price": 63510,
+    "discount_rate": 46,
+    "review_count": 839,
+    "review_score": 4.9011,
+    "heart_count": 36424,
+    "product_url": "https://m.wconcept.co.kr/Product/307187926",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/26/307187926_PD97021.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 5,
+    "product_id": "307393621",
+    "brand_id": 108784,
+    "brand_name_kr": "올리브데올리브",
+    "brand_name_en": "OLIVE DES OLIVE",
+    "product_name": "[해삐PICK][단독]오버핏 스웨이드 블루종 점퍼 OE6XJ8740",
+    "category_1": "의류",
+    "category_2": "아우터",
+    "category_3": "자켓",
+    "customer_price": 329000,
+    "sale_price": 250000.0,
+    "final_price": 166250,
+    "discount_rate": 49,
+    "review_count": 227,
+    "review_score": 4.9515,
+    "heart_count": 12660,
+    "product_url": "https://m.wconcept.co.kr/Product/307393621",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/21/307393621_JM76962.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 6,
+    "product_id": "309092610",
+    "brand_id": 114779,
+    "brand_name_kr": "하우투러브미",
+    "brand_name_en": "howtoloveme",
+    "product_name": "알마 하이넥 캐시미어 핸드메이드 코트[gray]",
+    "category_1": "의류",
+    "category_2": "아우터",
+    "category_3": "핸드메이드코트",
+    "customer_price": 385000,
+    "sale_price": 385000.0,
+    "final_price": 308000,
+    "discount_rate": 20,
+    "review_count": 2,
+    "review_score": 5.0,
+    "heart_count": 488,
+    "product_url": "https://m.wconcept.co.kr/Product/309092610",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/10/309092610_VV32474.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 7,
+    "product_id": "307812090",
+    "brand_id": 108784,
+    "brand_name_kr": "올리브데올리브",
+    "brand_name_en": "OLIVE DES OLIVE",
+    "product_name": "[박민하PICK]벨티드 하프 발마칸 다운 코트 OP6XMA670",
+    "category_1": "의류",
+    "category_2": "아우터",
+    "category_3": "패딩",
+    "customer_price": 599000,
+    "sale_price": 365390.0,
+    "final_price": 242984,
+    "discount_rate": 59,
+    "review_count": 260,
+    "review_score": 4.8885,
+    "heart_count": 22121,
+    "product_url": "https://m.wconcept.co.kr/Product/307812090",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/90/307812090_LX39105.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 8,
+    "product_id": "308229643",
+    "brand_id": 102373,
+    "brand_name_kr": "모노로우",
+    "brand_name_en": "MONOROW",
+    "product_name": "[단독]NOA BAG 2COLORS",
+    "category_1": "가방",
+    "category_2": "숄더백",
+    "category_3": "숄더백",
+    "customer_price": 189000,
+    "sale_price": 170100.0,
+    "final_price": 132678,
+    "discount_rate": 29,
+    "review_count": 616,
+    "review_score": 4.9351,
+    "heart_count": 20609,
+    "product_url": "https://m.wconcept.co.kr/Product/308229643",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/43/308229643_AR87858.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 9,
+    "product_id": "308994608",
+    "brand_id": 105596,
+    "brand_name_kr": "안젤로 비안코",
+    "brand_name_en": "ANGELO BIANCO",
+    "product_name": "Molly Pocket Cardigan",
+    "category_1": "의류",
+    "category_2": "니트",
+    "category_3": "가디건",
+    "customer_price": 54000,
+    "sale_price": 48600.0,
+    "final_price": 37908,
+    "discount_rate": 29,
+    "review_count": 27,
+    "review_score": 4.8148,
+    "heart_count": 2598,
+    "product_url": "https://m.wconcept.co.kr/Product/308994608",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/08/308994608_PO93929.jpg"
+  },
+  {
+    "item_type": "product",
+    "rank": 10,
+    "product_id": "309050096",
+    "brand_id": 114795,
+    "brand_name_kr": "수아레 우먼",
+    "brand_name_en": "SUARE WOMEN",
+    "product_name": "(우먼)파인 캐시미어 100 홀가먼트 니트- 13 COLOR",
+    "category_1": "의류",
+    "category_2": "니트",
+    "category_3": "캐시미어",
+    "customer_price": 150000,
+    "sale_price": 119900.0,
+    "final_price": 91124,
+    "discount_rate": 39,
+    "review_count": 29,
+    "review_score": 4.9655,
+    "heart_count": 713,
+    "product_url": "https://m.wconcept.co.kr/Product/309050096",
+    "image_url": "https://product-image.wconcept.co.kr/productimg/image/img1/96/309050096_PC42493.jpg"
+  },
+  {
+    "product_id": "309050096",
+    "review_id": 15535049,
+    "rating": 5,
+    "review_text": "캐시미어라 그런가 보풀 잘 일어날꺼 같음\n단점을 부각시키는 니트&hellip;\n예쁜 브라운은 아님\n무튼.. 마음에 안드는데 당장 뭐라도 입어야해서ㅜ",
+    "created_at": "2026-10-22 00:24:30",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "다름", "valueSort": 3 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970059,
+        "itemCd": "309050096",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 니트- 13 COLOR",
+        "optionValue": "브라운_L"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "309050096",
+    "review_id": 15535017,
+    "rating": 5,
+    "review_text": "사진보다 실물색상이 더 이뻐요 소재도 부드럽고 따뜻해서 색깔별로 다 사고싶어요",
+    "created_at": "2026-10-22 00:14:37",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970027,
+        "itemCd": "309050096",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 니트- 13 COLOR",
+        "optionValue": "올리브_M"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309050096/309050096_1792595677417.jpeg"
+    ]
+  },
+  {
+    "product_id": "309050096",
+    "review_id": 15535014,
+    "rating": 5,
+    "review_text": "사진보다 실물색상이 더 이뻐요 소재도 부드럽고 따뜻해서 색깔별로 다 사고싶어요",
+    "created_at": "2026-10-22 00:14:11",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970024,
+        "itemCd": "309050096",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 니트- 13 COLOR",
+        "optionValue": "블루_M"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309050096/309050096_1792595651406.jpeg"
+    ]
+  },
+  {
+    "product_id": "309050096",
+    "review_id": 15534852,
+    "rating": 5,
+    "review_text": "원단이 좋아서 예쁘게 입을 수 있을거 같아요\n색깔도 예뻐요",
+    "created_at": "2026-10-21 23:33:15",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15969862,
+        "itemCd": "309050096",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 니트- 13 COLOR",
+        "optionValue": "립 레드_M"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "309050096",
+    "review_id": 15534584,
+    "rating": 5,
+    "review_text": "부드럽긴한데 색깔이 좀 별로에요 브라운 비추고요",
+    "created_at": "2026-10-21 22:32:53",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "다름", "valueSort": 3 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15969592,
+        "itemCd": "309050096",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 니트- 13 COLOR",
+        "optionValue": "브라운_L"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "309050096",
+    "review_id": 15533987,
+    "rating": 5,
+    "review_text": "기존에 코발트 블루 컬러를 너무 잘 입고 있어서 다른 컬러도 탐났는데, 이번 다크 브라운도 실물 색감이 정말 고급스럽고 은은하게 잘 나왔습니다. 쿨톤이라 브라운 계열이 은근 까다로운데, 노란 끼가 돌지 않는 차분하고 뮤트한 쿨 브라운이라 얼굴빛에 겉돌지 않고 자연스럽게 잘 어울려요",
+    "created_at": "2026-10-21 20:44:15",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15968995,
+        "itemCd": "309050096",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 니트- 13 COLOR",
+        "optionValue": "브라운_S"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308994608",
+    "review_id": 15535878,
+    "rating": 5,
+    "review_text": "화이트 색상이 얼굴을 환하게 해주고 엄청두껍지듀 얇지도 않아서 늦가을 초겨울에 입기 좋은거같아요",
+    "created_at": "2026-10-22 09:58:15",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970906,
+        "itemCd": "308994608",
+        "itemName": "Molly Pocket Cardigan",
+        "optionValue": "IVORY_FREE"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308994608/308994608_1792630695693.jpg"
+    ]
+  },
+  {
+    "product_id": "308994608",
+    "review_id": 15535572,
+    "rating": 5,
+    "review_text": "포실포실하니 촉감도 좋고 가격도 저렴해서 마음에 드네요\n배송은 너무 늦었어요!",
+    "created_at": "2026-10-22 08:49:04",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970584,
+        "itemCd": "308994608",
+        "itemName": "Molly Pocket Cardigan",
+        "optionValue": "IVORY_FREE"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308994608/308994608_1792626544888.jpg"
+    ]
+  },
+  {
+    "product_id": "308994608",
+    "review_id": 15533736,
+    "rating": 5,
+    "review_text": "너무 귀엽고 헤이리한 소재로 가볍습니다. 털빠짐이  있을거 같긴한데 가격대비 괜찮긴한 듯 합니다.",
+    "created_at": "2026-10-21 20:09:40",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15968743,
+        "itemCd": "308994608",
+        "itemName": "Molly Pocket Cardigan",
+        "optionValue": "IVORY_FREE"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308994608/308994608_1792580980066.jpg"
+    ]
+  },
+  {
+    "product_id": "308994608",
+    "review_id": 15527545,
+    "rating": 5,
+    "review_text": "살짝 여유있는 느낌입니다. 따뜻하네요 데일리로 입어도 좋아요",
+    "created_at": "2026-10-21 12:45:57",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15961155,
+        "itemCd": "308994608",
+        "itemName": "Molly Pocket Cardigan",
+        "optionValue": "IVORY_FREE"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308994608",
+    "review_id": 15507438,
+    "rating": 5,
+    "review_text": "휘뚜루마뚜루 간절기에 겉옷으로 입기 좋아요\n부들부들해서 촉감도 좋고 바지 스커트 다 잘어울려요",
+    "created_at": "2026-10-20 21:03:43",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15937194,
+        "itemCd": "308994608",
+        "itemName": "Molly Pocket Cardigan",
+        "optionValue": "IVORY_FREE"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308994608",
+    "review_id": 15505737,
+    "rating": 5,
+    "review_text": "옷은 괜찮고 스페어 단추가 없는데 문의시 따로 구매 가능하고 하니 구매하실 분들 참고바랍니다.",
+    "created_at": "2026-10-20 15:05:41",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15935474,
+        "itemCd": "308994608",
+        "itemName": "Molly Pocket Cardigan",
+        "optionValue": "IVORY_FREE"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308994608/308994608_1792486679494.jpg"
+    ]
+  },
+  {
+    "product_id": "308229643",
+    "review_id": 15531243,
+    "rating": 5,
+    "review_text": "너무 마음에 들어요 생각보다 가벼워요 크기도 큰데 안에 수납공간이 나눠져있어서 편해요 가죽 상태도좋은거같고 구겨져도 멋지고 편하게 잘 들수있을것같아요",
+    "created_at": "2026-10-21 15:12:34",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "착용감", "value": "좋음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15965941,
+        "itemCd": "308229643",
+        "itemName": "[단독]NOA BAG 2COLORS",
+        "optionValue": "BLACK"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308229643/308229643_1792563154599.jpeg"
+    ]
+  },
+  {
+    "product_id": "308229643",
+    "review_id": 15530499,
+    "rating": 5,
+    "review_text": "진짜 빅백좋아요 \n고급지고 \n데일리로 어느 룩에나 어울려요",
+    "created_at": "2026-10-21 13:02:09",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "착용감", "value": "좋음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15965158,
+        "itemCd": "308229643",
+        "itemName": "[단독]NOA BAG 2COLORS",
+        "optionValue": "BLACK"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308229643",
+    "review_id": 15488776,
+    "rating": 5,
+    "review_text": "디자인이 정말 예쁘고, 뒤집어 써도 옷과 잘 어울려서 너무 마음에 듭니다",
+    "created_at": "2026-10-19 15:27:50",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "착용감", "value": "좋음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15914912,
+        "itemCd": "308229643",
+        "itemName": "[단독]NOA BAG 2COLORS",
+        "optionValue": "BLACK"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308229643/308229643_1792391270132.jpeg",
+      "https://media.wconcept.co.kr/review/308229643/308229643_1792391270226.jpeg",
+      "https://media.wconcept.co.kr/review/308229643/308229643_1792391270262.jpeg"
+    ]
+  },
+  {
+    "product_id": "308229643",
+    "review_id": 15486987,
+    "rating": 5,
+    "review_text": "사이즈 좋규 튼튼하고 탄탄해요 출근백입니다!!",
+    "created_at": "2026-10-18 21:42:37",
+    "review_articles": [
+      { "title": "사이즈", "value": "작음", "valueSort": 2 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "착용감", "value": "좋음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15913084,
+        "itemCd": "308229643",
+        "itemName": "[정혜임 PICK][단독]NOA BAG 2COLORS",
+        "optionValue": "BLACK"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308229643",
+    "review_id": 15486082,
+    "rating": 5,
+    "review_text": "친구가 부탁해서 구매했는데 수납력도 짱이고 엄청 잘 메고 다닌다고 해서 저도 하나 구매할 예정이에요 ~",
+    "created_at": "2026-10-18 16:13:06",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "착용감", "value": "좋음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15912179,
+        "itemCd": "308229643",
+        "itemName": "[정혜임 PICK][단독]NOA BAG 2COLORS",
+        "optionValue": "BLACK"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308229643/308229643_1792307586353.jpeg"
+    ]
+  },
+  {
+    "product_id": "308229643",
+    "review_id": 15485747,
+    "rating": 5,
+    "review_text": "숄더인데\n조금 더 길었으면\n편하겠어요..\n약간 짧은듯해요\n숄더로 조금 짧아요",
+    "created_at": "2026-10-18 14:34:51",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "착용감", "value": "좋음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15911844,
+        "itemCd": "308229643",
+        "itemName": "[정혜임 PICK][단독]NOA BAG 2COLORS",
+        "optionValue": "CHOCO BROWN"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "307812090",
+    "review_id": 15464654,
+    "rating": 5,
+    "review_text": "가볍고 따뜻해요. 코트형 패딩이라 겨울에 잘 입을거 같아요",
+    "created_at": "2026-10-12 13:31:08",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15889990,
+        "itemCd": "307812090",
+        "itemName": "벨티드 하프 발마칸 다운 코트 OP6XMA670",
+        "optionValue": "BLACK_55_01"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307812090/307812090_1791779468162.jpeg"
+    ]
+  },
+  {
+    "product_id": "307812090",
+    "review_id": 15394503,
+    "rating": 5,
+    "review_text": "소재랑 디테일 마감 좋아요. \n가벼운 느낌이 있어서 아주 혹한에는 얇게 느껴질 수도 있을 것 같아요. 활동하기 편한 기장이 마음에 들어요. 후드가 없는 재킷 스타일이라 큰 숄 머플러랑 코디하기도 좋을 것 같아요. 구매에 만족합니다.",
+    "created_at": "2026-09-20 17:53:33",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15817403,
+        "itemCd": "307812090",
+        "itemName": "벨티드 하프 발마칸 다운 코트 OP6XMA670",
+        "optionValue": "BLACK_55_01"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307812090/307812090_1789894413375.jpg"
+    ]
+  },
+  {
+    "product_id": "307812090",
+    "review_id": 15396261,
+    "rating": 5,
+    "review_text": "겨울에 편하게 끼워입기 좋게 넉넉합니다~~~",
+    "created_at": "2026-09-19 08:07:24",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15819204,
+        "itemCd": "307462243",
+        "itemName": "벨티드 하프 발마칸 구스다운 코트 OP5XMA670",
+        "optionValue": "BLACK_66_02"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "307812090",
+    "review_id": 15396260,
+    "rating": 5,
+    "review_text": "작년부터 보고 있다가 세일해서 블랙 브라운 두가지 색상 구입했습니다 \n옷은 굉장히 가볍고 심플해서 어느 옷에나 편하게 잘입을 거 같아요",
+    "created_at": "2026-09-07 17:04:04",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15819203,
+        "itemCd": "307462243",
+        "itemName": "벨티드 하프 발마칸 구스다운 코트 OP5XMA670",
+        "optionValue": "BLACK_66_02"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307462243/307462243_1788768243928.jpg"
+    ]
+  },
+  {
+    "product_id": "307812090",
+    "review_id": 15396259,
+    "rating": 5,
+    "review_text": "원하는 사이즈는 아니었지만 눈여겨봤던건데 마침 세일해서 구매해봤어요 초겨울까지 아우터로 가볍게 입을 수 있을것같고 디자인이 귀여워서 좋아요",
+    "created_at": "2026-09-01 20:57:37",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15819202,
+        "itemCd": "307462243",
+        "itemName": "벨티드 하프 발마칸 구스다운 코트 OP5XMA670",
+        "optionValue": "BLACK_66_02"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307462243/307462243_1788263857768.jpg"
+    ]
+  },
+  {
+    "product_id": "307812090",
+    "review_id": 15396258,
+    "rating": 5,
+    "review_text": "55 재입고 안되깅애 그냥 66삿는데 괜춘해여 디자인이 넘맘에듬~~",
+    "created_at": "2026-09-01 17:48:39",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15819201,
+        "itemCd": "307462243",
+        "itemName": "벨티드 하프 발마칸 구스다운 코트 OP5XMA670",
+        "optionValue": "BLACK_66_02"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307462243/307462243_1788252519572.jpeg"
+    ]
+  },
+  {
+    "product_id": "309092610",
+    "review_id": 15531008,
+    "rating": 5,
+    "review_text": "이번 겨울에 제대로 된 핸드메이드 코트 하나 장만하고 싶다고 생각하고 기다리고있었는데 대표님께서 스토리로 스포하신거 보자마자\n이거다!! 하고 오픈 날까지 기다렸던 것 같아요 ㅎㅎ요즘 나오는 코트들 잠궜을때만 이쁘다거나 풀었을때만 이쁘다거나 두 모습 다 이쁜 코트들 못봤는데 이 제품은 풀어도 이쁘고 단추 닫고 입어도 예쁘게 연출되는거 보고 감탄했어요..소재도 고급스러워서 택배 열자말자 소리질렀네용\n1사이즈 할지 2사이즈 할지 고민했는데 1사이즈로 하길 잘한것같아요! 적당히 오버핏 느낌나서 예쁘고 멋져보여요. 2사이즈 했으면 품이 조금 더 커서 약간 불편했을것같아요~! 여러분 고민하지마시고 구매하세요!!!",
+    "created_at": "2026-10-21 14:47:45",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15965667,
+        "itemCd": "309092610",
+        "itemName": "알마 하이넥 캐시미어 핸드메이드 코트[gray]",
+        "optionValue": "GRAY_1"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309092610/309092610_1792561665752.JPG",
+      "https://media.wconcept.co.kr/review/309092610/309092610_1792561665874.JPG"
+    ]
+  },
+  {
+    "product_id": "309092610",
+    "review_id": 15530749,
+    "rating": 5,
+    "review_text": "배송 쿠팡급으로 일찍왔네요 \n사이즈 고민많았는데 162cm 55반사이즈 2사이즈 넉넉해요! 아마 66사이즈분들도 예쁘게 맞으실듯합니다 제키 기준으로 1사이즈는 스탠다드 핏인거같고 2사이즈는 살짝오버핏에 멋쁨핏입니다:) 코트 하나로 여러 연출이 가능해서 진짜 좋아요... 핏은 물론이고 소재가 넘나 맘에들어요ㅠㅠ 이가격에 이런고급짐 만나기 어려울듯... 누벅자켓으로 입문해서 하투럽에 빠져듭니다 사은품 고마와요 잘쓸게요^^",
+    "created_at": "2026-10-21 13:59:36",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15965408,
+        "itemCd": "309092610",
+        "itemName": "알마 하이넥 캐시미어 핸드메이드 코트[gray]",
+        "optionValue": "GRAY_2"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309092610/309092610_1792558776044.jpeg",
+      "https://media.wconcept.co.kr/review/309092610/309092610_1792558776147.jpeg",
+      "https://media.wconcept.co.kr/review/309092610/309092610_1792558776192.jpeg"
+    ]
+  },
+  {
+    "product_id": "307393621",
+    "review_id": 15535895,
+    "rating": 5,
+    "review_text": "좀 여유잇게 입고 싶어서 66 삿는데\n딱\n원햇던 핏이에요!! 예뻐요🤍",
+    "created_at": "2026-10-22 10:04:24",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970923,
+        "itemCd": "307393621",
+        "itemName": "오버핏 스웨이드 블루종 점퍼 OE6XJ8740",
+        "optionValue": "BEIGE_66_02"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307393621/307393621_1792631063892.jpeg"
+    ]
+  },
+  {
+    "product_id": "307393621",
+    "review_id": 15533497,
+    "rating": 5,
+    "review_text": "구입하고 이제 입어볼수 있어 후기 남겨요.\n적당한 사이즈의 오버핏에 색상도 밝고 예뻐요.\n스타일도 멋스러워 잘 입고 있어요^^",
+    "created_at": "2026-10-21 19:06:41",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15968504,
+        "itemCd": "307393621",
+        "itemName": "오버핏 스웨이드 블루종 점퍼 OE6XJ8740",
+        "optionValue": "L_GREY_55_01"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307393621/307393621_1792577201515.jpg",
+      "https://media.wconcept.co.kr/review/307393621/307393621_1792577201627.jpg"
+    ]
+  },
+  {
+    "product_id": "307393621",
+    "review_id": 15488103,
+    "rating": 5,
+    "review_text": "스웨이드재질이라서 따뜻\nㅅ하게 입고 다닐수있겠어요",
+    "created_at": "2026-10-19 11:25:28",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15914204,
+        "itemCd": "307393621",
+        "itemName": "오버핏 스웨이드 블루종 점퍼 OE6XJ8740",
+        "optionValue": "L_GREY_55_01"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "307393621",
+    "review_id": 15484251,
+    "rating": 5,
+    "review_text": "핏이 예뻐요   쿨톤인 주에게 잘 어울려요 오버핏이라 여리요리해 보여요",
+    "created_at": "2026-10-17 22:02:03",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15910347,
+        "itemCd": "307393621",
+        "itemName": "[해삐PICK][단독]오버핏 스웨이드 블루종 점퍼 OE6XJ8740",
+        "optionValue": "L_GREY_55_01"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "307393621",
+    "review_id": 15480317,
+    "rating": 5,
+    "review_text": "소재도 부드럽고 사이즈 잘 맞습니다\n진짜 이뻐요",
+    "created_at": "2026-10-16 17:26:10",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15906411,
+        "itemCd": "307393621",
+        "itemName": "[해삐PICK][단독]오버핏 스웨이드 블루종 점퍼 OE6XJ8740",
+        "optionValue": "L_GREY_55_01"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307393621/307393621_1792139170499.jpg"
+    ]
+  },
+  {
+    "product_id": "307393621",
+    "review_id": 15479186,
+    "rating": 5,
+    "review_text": "리뷰 좋은 이유가 있네요.살짝 무게강은 있지만.더 무거운 옷들도 입는터라.만족.색상 소재 디자인 굿",
+    "created_at": "2026-10-16 12:43:17",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15905279,
+        "itemCd": "307393621",
+        "itemName": "[해삐PICK][단독]오버핏 스웨이드 블루종 점퍼 OE6XJ8740",
+        "optionValue": "L_GREY_55_01"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307393621/307393621_1792122197101.jpg"
+    ]
+  },
+  {
+    "product_id": "307187926",
+    "review_id": 15536574,
+    "rating": 5,
+    "review_text": "생각보다 허벅지 부분이 좀 타이트한 느낌이에요.\n좀 더 와이드 할 줄 알았는데 조금 아쉽습니다ㅠㅠ",
+    "created_at": "2026-10-22 11:48:00",
+    "review_articles": [
+      { "title": "사이즈", "value": "작음", "valueSort": 2 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15971698,
+        "itemCd": "307187926",
+        "itemName": "[14차 리오더][기장선택가능] US105 레귤러 플레어진 (블랙)",
+        "optionValue": "BLACK, S"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307187926/307187926_1792637280772.jpg"
+    ]
+  },
+  {
+    "product_id": "307187926",
+    "review_id": 15536568,
+    "rating": 5,
+    "review_text": "M사이즈하길잘햇네요\n 핏이 너무맘에들고 재질도탄탄 오래입을것같아용",
+    "created_at": "2026-10-22 11:46:56",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15971692,
+        "itemCd": "307187926",
+        "itemName": "[14차 리오더][기장선택가능] US105 레귤러 플레어진 (블랙)",
+        "optionValue": "BLACK, M"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307187926/307187926_1792637216125.jpg"
+    ]
+  },
+  {
+    "product_id": "307187926",
+    "review_id": 15535047,
+    "rating": 5,
+    "review_text": "핏은 너무 예쁜데 신축성 없고 타이트 합니다. 집에 장모종 고양이 두마리 키우는데 소재가...스치기만해도 털이 너무 잘 붙어 아쉽네요",
+    "created_at": "2026-10-22 00:24:10",
+    "review_articles": [
+      { "title": "사이즈", "value": "작음", "valueSort": 2 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "다름", "valueSort": 3 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970057,
+        "itemCd": "307187926",
+        "itemName": "[14차 리오더][기장선택가능] US105 레귤러 플레어진 (블랙)",
+        "optionValue": "BLACK, M"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "307187926",
+    "review_id": 15531071,
+    "rating": 5,
+    "review_text": "핏도 이쁘고 완전 딥한 블랙이라 넘 좋아요 구김도 심하지 않음",
+    "created_at": "2026-10-21 15:02:04",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15965730,
+        "itemCd": "307187926",
+        "itemName": "[16차 리오더][기장선택가능] US105 레귤러 플레어진 (블랙)",
+        "optionValue": "BLACK, M"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307187926/307187926_1792562524811.jpg"
+    ]
+  },
+  {
+    "product_id": "307187926",
+    "review_id": 15523305,
+    "rating": 5,
+    "review_text": "ㄴ ㅓ어무 이뻐옹 \nM사길 잘한거같아용\nS샀으면 이쁜 핏 안나왔을듯 ㅎㅎ 예뻐용",
+    "created_at": "2026-10-21 12:32:59",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15955242,
+        "itemCd": "307187926",
+        "itemName": "[16차 리오더][기장선택가능] US105 레귤러 플레어진 (블랙)",
+        "optionValue": "BLACK, LONG M(총장 +5CM 버전)"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307187926/307187926_1792553579635.jpg"
+    ]
+  },
+  {
+    "product_id": "307187926",
+    "review_id": 15508645,
+    "rating": 5,
+    "review_text": "너어어어ㅓ어무 애뻐용‼️\n진짜 강추 근데 생각보다 허리가 작다..ㄷㄷ ㅠㅋㅋㅋ그래서 좀 슬퍼요 살을 좀 빼야할거같아요\n다른것도 다 롱버전 나오면 좋겠어요",
+    "created_at": "2026-10-21 08:36:16",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15938402,
+        "itemCd": "307187926",
+        "itemName": "[16차 리오더][기장선택가능] US105 레귤러 플레어진 (블랙)",
+        "optionValue": "BLACK, LONG M(총장 +5CM 버전)"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308920544",
+    "review_id": 15484611,
+    "rating": 5,
+    "review_text": "포장도 꼼꼼하고 배송도 예정일에 맞게 잘 도착했어요\n상품 가볍고 사이즈 고민하다 S로 시켰는데 편하게 입을것 같아요\n지퍼 밑애가 좀 거슬리지만 귀찮아서 그냥 입으려고 합니다",
+    "created_at": "2026-10-18 00:18:25",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15910708,
+        "itemCd": "308920544",
+        "itemName": "[컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR",
+        "optionValue": "라이트 그레이_S"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308920544/308920544_1792250305147.jpeg"
+    ]
+  },
+  {
+    "product_id": "308920544",
+    "review_id": 15483758,
+    "rating": 5,
+    "review_text": "사이즈 고민 많았는데 S사이즈(161cm,50kg)\n너무 딱 맞지도 크지도 않고 아주 잘 맞아요\n색상도 실물이 더 예쁘고 가볍고 엄청 따뜻합니다.",
+    "created_at": "2026-10-17 19:19:14",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15909853,
+        "itemCd": "308920544",
+        "itemName": "[컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR",
+        "optionValue": "라이트 그레이_S"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308920544/308920544_1792232354762.jpg"
+    ]
+  },
+  {
+    "product_id": "308920544",
+    "review_id": 15452646,
+    "rating": 5,
+    "review_text": "오자마자 댕댕이가 좋아하네요. 포근한가봐요~",
+    "created_at": "2026-10-08 10:47:44",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15877790,
+        "itemCd": "308920544",
+        "itemName": "[컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR",
+        "optionValue": "그레이_S"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308920544/308920544_1791424063998.jpeg"
+    ]
+  },
+  {
+    "product_id": "308920544",
+    "review_id": 15418730,
+    "rating": 5,
+    "review_text": "추운날도 엄청 따스해요! 사실 저한텐 좀 커서 저희 신랑이 입는데 엄청 잘 어울립니다. (신랑 176 마른체구)\n근데 제가 걍 입을때도 있어요..크지만 워낙에 디자인이 예뼈서 다 용서가 되네요 ㅎ",
+    "created_at": "2026-05-13 16:26:18",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15842349,
+        "itemCd": "307540654",
+        "itemName": "(우먼)라이트 시어쉘 패딩 점퍼 - 3 COLOR",
+        "optionValue": "그레이_M"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308920544",
+    "review_id": 15418729,
+    "rating": 5,
+    "review_text": "생각보다 엄청커요",
+    "created_at": "2026-05-03 18:09:03",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15842348,
+        "itemCd": "307540654",
+        "itemName": "(우먼)라이트 시어쉘 패딩 점퍼 - 3 COLOR",
+        "optionValue": "그레이_M"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308920544",
+    "review_id": 15418728,
+    "rating": 5,
+    "review_text": "확실히 라지는 크긴 크네요,, 키가 큰편이라 그나마 기장은 괜찮은데 폼이 많이 커서 오버핏으로 입기 좋아요! \n색상은 넘 맘에 듭니다",
+    "created_at": "2026-04-17 18:08:30",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15842347,
+        "itemCd": "307540654",
+        "itemName": "(우먼)라이트 시어쉘 패딩 점퍼 - 3 COLOR",
+        "optionValue": "브라운_L"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/307540654/307540654_1776416909993.jpeg"
+    ]
+  },
+  {
+    "product_id": "308926911",
+    "review_id": 15536493,
+    "rating": 5,
+    "review_text": "가디건이 실용성이 좋고 치마길이도 168에 적당히 이뻐요 다만 타사이트에 더 저렴하게 파네요.. \n가격대비 만족합니다",
+    "created_at": "2026-10-22 11:27:16",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15971617,
+        "itemCd": "308926911",
+        "itemName": "라운드 슬림핏 니트 A라인 스커트 셋업 (XO4OW009L0)",
+        "optionValue": "그레이, F"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308926911/308926911_1792636036484.jpeg",
+      "https://media.wconcept.co.kr/review/308926911/308926911_1792636036598.jpeg"
+    ]
+  },
+  {
+    "product_id": "308926911",
+    "review_id": 15490066,
+    "rating": 5,
+    "review_text": "니트가 부드럽고 신축성있어 사이즈 여유있고요. \n치마기장도 길어서 맘에 드네요.\n답답하게 많이 두껍지않아 겨울에는 코트안에 입어도 될것같아요",
+    "created_at": "2026-10-19 21:33:30",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15916401,
+        "itemCd": "308926911",
+        "itemName": "라운드 슬림핏 니트 A라인 스커트 셋업 (XO4OW009L0)",
+        "optionValue": "그레이, F"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308926911",
+    "review_id": 15481306,
+    "rating": 5,
+    "review_text": "..? 이거 진짜 말도 안되는 가격이고 정말 예쁘고 재질 좋습니다..! 디자인 맘에 들면 꼭 사세요!! 어떻게 이가격이 나올까요👍🏻👍🏻👍🏻",
+    "created_at": "2026-10-16 22:53:38",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15907400,
+        "itemCd": "308926911",
+        "itemName": "라운드 슬림핏 니트 A라인 스커트 셋업 (XO4OW009L0)",
+        "optionValue": "그레이, F"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308926911",
+    "review_id": 15471410,
+    "rating": 5,
+    "review_text": "지금날씨에 최적이네요 \n겨울까지 잘 입을수있을꺼 같아요 \n입었을때 차분해 보이고 따뜻해서 자주 입을꺼 같아요 \n마감 디테일도 좋아요 \n다만 보풀이 잘 생길꺼같아요 \n속에 블랙 폴라티셔츠랑입으니 찰떡이네요 \n착용감은 까실거림없어서 피부가 예민한 제가입었을때도 \n부드러웠어요 \n이번에 아이 학교 참관수업에 입고가려고 해요 \n차분해보이고 단정해보이는 이미지여서 참관수업때 입으려고 구매했네요",
+    "created_at": "2026-10-14 13:18:00",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15897294,
+        "itemCd": "308926911",
+        "itemName": "라운드 슬림핏 니트 A라인 스커트 셋업 (XO4OW009L0)",
+        "optionValue": "그레이, F"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/308926911/308926911_1791951480499.jpg"
+    ]
+  },
+  {
+    "product_id": "308926911",
+    "review_id": 15468457,
+    "rating": 5,
+    "review_text": "빠른배송 감사합니다!!\n화면이랑 같아요!\n예쁘게 잘 입겠습니다!",
+    "created_at": "2026-10-13 20:07:58",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15893840,
+        "itemCd": "308926911",
+        "itemName": "라운드 슬림핏 니트 A라인 스커트 셋업 (XO4OW009L0)",
+        "optionValue": "그레이, F"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "308926911",
+    "review_id": 15467390,
+    "rating": 5,
+    "review_text": "겨울에 입기좋아요 편해요 사이즈 조금 커요 두꺼워요",
+    "created_at": "2026-10-13 15:52:00",
+    "review_articles": [
+      { "title": "사이즈", "value": "큼", "valueSort": 3 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15892761,
+        "itemCd": "308926911",
+        "itemName": "라운드 슬림핏 니트 A라인 스커트 셋업 (XO4OW009L0)",
+        "optionValue": "그레이, F"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "309050097",
+    "review_id": 15535917,
+    "rating": 4,
+    "review_text": "배송 빠르고 핏도 이뻐요 재질도 따갑거나 그런건 없는데 아무래도 털날림은 조큼 있네요ㅜ",
+    "created_at": "2026-10-22 10:10:45",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970945,
+        "itemCd": "309050097",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 브이넥 니트 - 7 COLOR",
+        "optionValue": "차콜_S"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "309050097",
+    "review_id": 15535693,
+    "rating": 4,
+    "review_text": "흠 기대를 너무햇나  그냥 그냥 그래요 가볍긴 한데 막폭닥폭닥한 캐시미어는 아니에요 저가격에 캐시미어자체가 가능한금액인가 싶지만 딱 그값만큼임",
+    "created_at": "2026-10-22 09:08:25",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970719,
+        "itemCd": "309050097",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 브이넥 니트 - 7 COLOR",
+        "optionValue": "멜란지_M"
+      }
+    ],
+    "review_images": []
+  },
+  {
+    "product_id": "309050097",
+    "review_id": 15535061,
+    "rating": 5,
+    "review_text": "부드럽고 좋아요.\n생갹보다 정 사이즈에요.\nM 주문했으면  더 예뻤을듯합니다.",
+    "created_at": "2026-10-22 00:33:23",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15970071,
+        "itemCd": "309050097",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 브이넥 니트 - 7 COLOR",
+        "optionValue": "멜란지_S"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309050097/309050097_1792596803093.jpg"
+    ]
+  },
+  {
+    "product_id": "309050097",
+    "review_id": 15534947,
+    "rating": 5,
+    "review_text": "그레이컬러 사고 넘 괜찮아서 브라운 컬러도 구매했어요. 가볍고 따스한 캐시미어 니트를 좋은 가격에 구매할수 있어 좋았네요\n 핏도 사이즈도 넘 맘에 듭니다\n지금부터 쭈욱 입어요",
+    "created_at": "2026-10-21 23:54:58",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "비슷함", "valueSort": 2 },
+      { "title": "소재", "value": "비슷함", "valueSort": 2 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15969957,
+        "itemCd": "309050097",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 브이넥 니트 - 7 COLOR",
+        "optionValue": "브라운_S"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309050097/309050097_1792594498262.jpg"
+    ]
+  },
+  {
+    "product_id": "309050097",
+    "review_id": 15534206,
+    "rating": 5,
+    "review_text": "정말정말 부드러워요! 생각보다 두께는 얇고 브이넥 파임이 단독으로 입기는 조금 어려울것같지만 레이어드하긴 좋을것같고 브라운 색상이 살짝 보라빛 나면서 묘한 색이라 여쿨 뮤트와 갈웜뮤트에 걸친 저에게 잘 어울리는것같아요 \n생각보다 너무 부드러워서 다른색상도 구매할지 고민중입니다",
+    "created_at": "2026-10-21 21:26:28",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15969214,
+        "itemCd": "309050097",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 브이넥 니트 - 7 COLOR",
+        "optionValue": "브라운_M"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309050097/309050097_1792585588093.jpeg",
+      "https://media.wconcept.co.kr/review/309050097/309050097_1792585588216.jpeg"
+    ]
+  },
+  {
+    "product_id": "309050097",
+    "review_id": 15534066,
+    "rating": 5,
+    "review_text": "작년에 사고 넘 잘입어서 올해 또 구입했어요 폭닥폭닥하니 넘 맘에 들어요",
+    "created_at": "2026-10-21 20:58:54",
+    "review_articles": [
+      { "title": "사이즈", "value": "적당함", "valueSort": 1 },
+      { "title": "색상", "value": "같음", "valueSort": 1 },
+      { "title": "소재", "value": "같음", "valueSort": 1 }
+    ],
+    "review_options": [
+      {
+        "reviewOptionSeqNo": 15969074,
+        "itemCd": "309050097",
+        "itemName": "(우먼)파인 캐시미어 100 홀가먼트 브이넥 니트 - 7 COLOR",
+        "optionValue": "블랙_M"
+      }
+    ],
+    "review_images": [
+      "https://media.wconcept.co.kr/review/309050097/309050097_1792583934556.jpeg"
+    ]
+  }
+]
