@@ -1,8 +1,17 @@
 import os
-import mysql.connector
 
-from dotenv import load_dotenv
+from datetime import datetime
+
 from fastapi import FastAPI, HTTPException
+from dotenv import load_dotenv
+
+from sqlalchemy import create_engine, Integer, String, DateTime, text
+from sqlalchemy.orm import DeclarativeBase, sessionmaker, Mapped, mapped_column
+
+# sqlalchemy : engine, session, model
+# engine : 데이터 입.출력 관리하는 물리적인 역할담당
+# session : engine이 문제없이 설정되었다는 전제, 실제 데이터 입.출력 역할
+# model : 실제 값 적용 시, 타입 및 포맷에 맞춰서 입.출력 될 수 있도록 지원
 
 load_dotenv()
 
@@ -12,116 +21,136 @@ app = FastAPI(
   version="1.0.0"
 )
 
-def get_db_connection() :
+# mysql+mysqlconnector://root:password@localhost/api_db
 
-  return mysql.connector.connect(
-    host=os.getenv("DB_HOST"),
-    user=os.getenv("DB_USER"),
-    password=os.getenv("DB_PASSWORD"),
-    database=os.getenv("DB_NAME")
+DATABASE_URL = (
+  f"mysql+mysqlconnector://"
+  f"{os.getenv("DB_USER")}:"
+  f"{os.getenv("DB_PASSWORD")}@"
+  f"{os.getenv("DB_HOST")}/"
+  f"{os.getenv("DB_NAME")}"
+)
+
+engine = create_engine(DATABASE_URL)
+
+SessionLocal = sessionmaker(
+  bind=engine
+)
+
+class Base(DeclarativeBase):
+  pass
+
+class Product(Base):
+  __tablename__ = "products"
+
+  product_id: Mapped[str] = mapped_column(String(50), primary_key=True)
+
+  brand_id: Mapped[int] = mapped_column(Integer)
+
+  product_name: Mapped[str] = mapped_column(String(500))
+
+  product_url: Mapped[str] = mapped_column(String(700))
+
+class Brand(Base):
+  __tablename__ = "brands"
+
+  brand_id: Mapped[int] = mapped_column(Integer, primary_key=True)
+
+  brand_name: Mapped[str] = mapped_column(String(255))
+
+  created_at: Mapped[datetime] = mapped_column(
+    DateTime,
+    server_default=text("CURRENT_TIMESTAMP")
   )
 
-# 전체 상품 조회
-@app.get("/products", status_code=200)
+  updated_at: Mapped[datetime] = mapped_column(
+    DateTime,
+    server_default=text("CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP")
+  )
+
+@app.get("/products")
 def get_products(limit: int = 10):
 
-  # print(conn.is_connected()) # True
-  conn = get_db_connection()
-  cursor = conn.cursor(dictionary=True)
+  # db = SessionLocal()
 
-  # 실제 작업자 역할
-  # 디폴트 값 => 향후 작업 후 반환하는 값의 형태를 튜플 : (a, b, c)
-  # 가급적 객체형태로 가져오는 것이 유리함!
-  # 파이썬 = 객체지향 프로그래밍 언어 : 문법 다양, 클라우드 컴퓨팅 서버배포
+  # # products = db.query(Product).all()
+  # products = db.query(Product).limit(limit).all()
 
-  cursor.execute(
-    """
-    SELECT
-      product_id,
-      brand_name,
-      product_name,
-      price
-    FROM api_products
-    LIMIT %s;
-    """, (limit, )
-  )
+  # db.close()
 
-  products = cursor.fetchall()
-
-  cursor.close()
-  conn.close()
-
-  if products is None:
-    raise HTTPException(
-      status_code=404,
-      detail="Products not found"
-    )
+  with SessionLocal() as db:
+    products = db.query(Product).limit(limit).all()
 
   return products
 
-# 특정 상품 조회
 @app.get("/products/{product_id}")
-def get_product(product_id: int):
+def get_product(product_id):
 
-  conn = get_db_connection()
-  cursor = conn.cursor(dictionary=True)
+  db = SessionLocal()
 
-  cursor.execute(
-    """
-    SELECT
-      product_id,
-      brand_name,
-      product_name,
-      price
-    FROM api_products
-    WHERE product_id = %s;
-    """, (product_id, )
-  )
+  product = db.query(Product).filter(Product.product_id == product_id).first()
 
-  product = cursor.fetchone()
-
-  cursor.close()
-  conn.close()
+  db.close()
 
   if product is None:
     raise HTTPException(
       status_code=404,
-      detail="Product not found"
+      detail="상품을 찾을 수 없습니다."
     )
 
   return product
 
-# 신규 상품 생성
-@app.post("/products", status_code=201)
-def create_product(product: dict):
+@app.put("/products/{product_id}")
+def update_product(product_id: str, product: dict):
 
-  conn = get_db_connection()
-  cursor = conn.cursor(dictionary=True)
+  db = SessionLocal()
 
-  cursor.execute(
-    """
-    INSERT INTO api_products
-      (brand_name, product_name, price)
-    VALUES
-      (%s, %s, %s)
-    """, (
-      product["brand_name"],
-      product["product_name"],
-      product["price"]
+  db_product = db.query(Product).filter(Product.product_id == product_id).first()
+
+  if db_product is None :
+    db.close()
+
+    raise HTTPException(
+      status_code=404,
+      detail="상품을 찾을 수 없습니다."
     )
-  )
+  
+  db_product.brand_id = product["brand_id"]
+  db_product.product_name = product["product_name"]
+  db_product.product_url = product["product_url"]
 
-  conn.commit()
+  db.commit()
+  db.refresh(db_product)
 
-  product_id = cursor.lastrowid
+  db.close()
 
-  cursor.close()
-  conn.close()
+  return db_product
 
-  return {
-    "producd_id": product_id,
-    **product
-  }
+@app.get("/brands")
+def get_brands():
 
-  # *product : tuple // **product : dict
+  db = SessionLocal()
+
+  brands = db.query(Brand).all()
+
+  db.close()
+
+  return brands
+
+@app.post("/brands", status_code=201)
+def create_brand(brand: dict):
+
+  db = SessionLocal()
+
+  new_brand = Brand(brand_name = brand["brand_name"])
+
+  db.add(new_brand)
+
+  db.commit()
+
+  db.refresh(new_brand)
+
+  db.close()
+
+  return new_brand
 
